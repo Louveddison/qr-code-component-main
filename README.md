@@ -60,5 +60,5 @@ for my future career I need to consolidate my knowledge of styling multiple elem
 
 - Github - [@louveddison]
 - Frontend Mentor - [@louveddison]
-- Linkedin - [Eddison LOUVE](https://www.linkedin.com/louveddison)
+- Linkedin - [Eddison LOUVE](https://www.linkedin.com/in/louveddison/)
 
