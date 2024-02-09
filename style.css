@@ -1,0 +1,37 @@
+body {
+    font-family: 'outfit', sans-serif;
+    font-size: 15px;
+    padding: 25px;
+    text-align: center;
+}
+
+#header-image{
+    width: 250px;;
+    height:220px;
+    border-radius: 10px;
+}
+
+div{
+    background-color: white;
+    padding: 20px;
+    width: 375px;
+    margin: auto;
+    border-radius: 10px;
+    border: 0.9px solid #EAEAEA;
+    box-shadow: 10px 5px 5px #EAEAEA;
+    height: 400px;
+    width: 250px;
+}
+
+a{
+    text-decoration: none; 
+    color: Light gray: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-weight: bold;
+    transition: 0.3 ease;
+}
+
+h3{
+    font-style: bold;
+    font-family:'outfit black', sans-serif;
+}
